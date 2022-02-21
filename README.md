@@ -1,5 +1,7 @@
 <h2> Hi there, I'm Maximilian Vieweg 江宇阳!</h2>
-<p><em>Final Year Mechatronics Engineering student at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a> <img src="https://repositum.tuwien.at/image/TU-logo.png" width="15">
+<p><em>
+Final Year Mechatronics Engineering student at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a> <img src="https://repositum.tuwien.at/image/TU-logo.png" width="15"> applying to master programmes right now. <br>
+Among top 15% of student cohort following an individual study plan, while taking courses in Robotics, Microcontrollers and Machine design. 
 </em></p>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maximilian.vieweg@gmail.com)
