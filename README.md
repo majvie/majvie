@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Maximilian Vieweg 江宇阳!</h2>
 <p><em>
-I'm an Erasmus Mundus Robotics Engineering Master student at the <a href="https://www.master-mir.eu/">Técnico Lisboa and the Université de Toulon</a> applying for 2023 summer internship programmes right now. <br>
+I'm an Erasmus Mundus Robotics Engineering Master student at the <a href="https://www.master-mir.eu/">Técnico Lisboa and the Université de Toulon</a>. <br>
 Among top 15% of student cohort during my bachelor's at the Technical University of Vienna following an individual study plan, while taking courses in Robotics, Microcontrollers and Machine design. 
 </em></p>
 
